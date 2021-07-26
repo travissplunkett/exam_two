@@ -1,0 +1,8 @@
+Total runners: 1000
+white runners: 78| Leaving at 09:00:00
+yellow runners: 75| Leaving at 09:02:18
+green runners: 61| Leaving at 09:04:33
+orange runners: 61| Leaving at 09:06:34
+blue runners: 56| Leaving at 09:08:35
+lilac runners: 128| Leaving at 09:10:31
+red runners: 541| Leaving at 09:13:39
